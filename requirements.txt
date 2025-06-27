@@ -1,0 +1,9 @@
+sentence-transformers
+# huggingface_hub==0.14.1
+hdbscan
+umap-learn
+matplotlib
+pandas
+scikit-learn
+numpy
+

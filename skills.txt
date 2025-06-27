@@ -1,0 +1,100 @@
+Python
+R
+SQL
+Scala
+Java
+Bash
+Julia
+MATLAB
+VBA
+C++
+Pandas
+NumPy
+dplyr
+Data wrangling
+Data cleaning
+Exploratory data analysis
+Feature engineering
+Time series analysis
+Data imputation
+Data visualization
+Power BI
+Tableau
+Looker
+Matplotlib
+Seaborn
+Plotly
+ggplot2
+D3.js
+QlikView
+Google Data Studio
+Scikit-learn
+TensorFlow
+Keras
+PyTorch
+XGBoost
+LightGBM
+CatBoost
+NLP
+Deep learning
+Model deployment
+Hypothesis testing
+Linear regression
+Logistic regression
+ANOVA
+Bayesian statistics
+A/B testing
+Multivariate analysis
+Time series forecasting
+Chi-square test
+Statistical modeling
+ETL
+Airflow
+Apache Spark
+Apache Hive
+Apache Kafka
+dbt
+Snowflake
+BigQuery
+Data pipelines
+Data warehousing
+MySQL
+PostgreSQL
+Oracle
+MongoDB
+Redis
+Microsoft SQL Server
+Redshift
+NoSQL
+Firebase
+Hadoop HDFS
+AWS
+Azure
+Google Cloud Platform
+Databricks
+Docker
+Kubernetes
+Terraform
+Cloud Functions
+CI/CD
+MLflow
+Business intelligence
+KPI development
+Forecasting
+Customer analytics
+Product analytics
+Marketing analytics
+Financial modeling
+Risk analytics
+Churn prediction
+ROI analysis
+Excel
+Jupyter Notebook
+Git
+Agile methodology
+Communication of insights
+Dashboard creation
+Critical thinking
+Collaboration with stakeholders
+Storytelling with data
+Data governance
