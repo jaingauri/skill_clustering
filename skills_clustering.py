@@ -6,6 +6,9 @@ import matplotlib.pyplot as plt
 from sentence_transformers import SentenceTransformer
 import hdbscan
 import umap
+import json
+from sklearn.metrics.pairwise import cosine_similarity
+
 
 # Step 1: Load skills
 with open("skills.txt", "r") as file:
@@ -71,3 +74,30 @@ plt.grid(True)
 plt.tight_layout()
 plt.savefig("clustered_skills_plot.png", dpi=300)
 print("✅ Plot saved as 'clustered_skills_plot.png'")
+
+
+# Set how many similar skills you want for each
+TOP_N = 5
+
+# Compute cosine similarity matrix (N x N)
+similarity_matrix = cosine_similarity(embeddings)
+
+# Store enhanced skills
+enhanced_skills = {}
+
+
+# Loop through each skill
+for idx, skill in enumerate(skills):
+    sim_scores = similarity_matrix[idx]
+    # Get top-N similar indices (excluding self)
+    top_indices = sim_scores.argsort()[-TOP_N-1:-1][::-1]
+    similar = [skills[i] for i in top_indices]
+    enhanced_skills[skill] = similar
+
+# Show sample
+for skill, similars in list(enhanced_skills.items())[:10]:
+    print(f"{skill} ➤ {', '.join(similars)}")
+
+
+with open("enhanced_skills.json", "w") as f:
+    json.dump(enhanced_skills, f, indent=2)

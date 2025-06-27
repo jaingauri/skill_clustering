@@ -1,0 +1,702 @@
+{
+  "Python": [
+    "NumPy",
+    "Matplotlib",
+    "Pandas",
+    "Jupyter Notebook",
+    "Scikit-learn"
+  ],
+  "R": [
+    "dplyr",
+    "Redis",
+    "dbt",
+    "Bash",
+    "ggplot2"
+  ],
+  "SQL": [
+    "MySQL",
+    "Microsoft SQL Server",
+    "Oracle",
+    "PostgreSQL",
+    "Business intelligence"
+  ],
+  "Scala": [
+    "Java",
+    "Apache Spark",
+    "Python",
+    "dplyr",
+    "Julia"
+  ],
+  "Java": [
+    "C++",
+    "Scala",
+    "Python",
+    "Oracle",
+    "VBA"
+  ],
+  "Bash": [
+    "Git",
+    "Python",
+    "CatBoost",
+    "Docker",
+    "R"
+  ],
+  "Julia": [
+    "Scala",
+    "Plotly",
+    "Redis",
+    "dplyr",
+    "MATLAB"
+  ],
+  "MATLAB": [
+    "Excel",
+    "Matplotlib",
+    "NumPy",
+    "C++",
+    "Python"
+  ],
+  "VBA": [
+    "Excel",
+    "Python",
+    "Java",
+    "Microsoft SQL Server",
+    "MATLAB"
+  ],
+  "C++": [
+    "Java",
+    "MATLAB",
+    "Python",
+    "VBA",
+    "Excel"
+  ],
+  "Pandas": [
+    "Python",
+    "Scikit-learn",
+    "NumPy",
+    "Matplotlib",
+    "AWS"
+  ],
+  "NumPy": [
+    "Python",
+    "Matplotlib",
+    "MATLAB",
+    "PyTorch",
+    "Pandas"
+  ],
+  "dplyr": [
+    "R",
+    "MATLAB",
+    "Excel",
+    "ggplot2",
+    "Scala"
+  ],
+  "Data wrangling": [
+    "Data warehousing",
+    "Data cleaning",
+    "Data visualization",
+    "Storytelling with data",
+    "Exploratory data analysis"
+  ],
+  "Data cleaning": [
+    "Data wrangling",
+    "Data warehousing",
+    "Data pipelines",
+    "Data imputation",
+    "Data governance"
+  ],
+  "Exploratory data analysis": [
+    "Data visualization",
+    "Data wrangling",
+    "Storytelling with data",
+    "Customer analytics",
+    "Multivariate analysis"
+  ],
+  "Feature engineering": [
+    "Product analytics",
+    "Deep learning",
+    "Data wrangling",
+    "Data warehousing",
+    "Exploratory data analysis"
+  ],
+  "Time series analysis": [
+    "Time series forecasting",
+    "Forecasting",
+    "Multivariate analysis",
+    "Exploratory data analysis",
+    "Statistical modeling"
+  ],
+  "Data imputation": [
+    "Data cleaning",
+    "Data wrangling",
+    "Exploratory data analysis",
+    "SQL",
+    "Data warehousing"
+  ],
+  "Data visualization": [
+    "Exploratory data analysis",
+    "Data wrangling",
+    "Storytelling with data",
+    "Data warehousing",
+    "Excel"
+  ],
+  "Power BI": [
+    "Git",
+    "Tableau",
+    "Firebase",
+    "LightGBM",
+    "Azure"
+  ],
+  "Tableau": [
+    "dbt",
+    "Oracle",
+    "SQL",
+    "Business intelligence",
+    "Jupyter Notebook"
+  ],
+  "Looker": [
+    "PyTorch",
+    "dplyr",
+    "Docker",
+    "R",
+    "Redis"
+  ],
+  "Matplotlib": [
+    "NumPy",
+    "MATLAB",
+    "Python",
+    "Plotly",
+    "Pandas"
+  ],
+  "Seaborn": [
+    "Pandas",
+    "Docker",
+    "Plotly",
+    "Redis",
+    "Snowflake"
+  ],
+  "Plotly": [
+    "Matplotlib",
+    "ggplot2",
+    "Data visualization",
+    "Python",
+    "Seaborn"
+  ],
+  "ggplot2": [
+    "Plotly",
+    "Matplotlib",
+    "Data visualization",
+    "dplyr",
+    "R"
+  ],
+  "D3.js": [
+    "dplyr",
+    "Databricks",
+    "Redis",
+    "Pandas",
+    "AWS"
+  ],
+  "QlikView": [
+    "KPI development",
+    "Oracle",
+    "VBA",
+    "Excel",
+    "Apache Kafka"
+  ],
+  "Google Data Studio": [
+    "Google Cloud Platform",
+    "Data warehousing",
+    "Databricks",
+    "Business intelligence",
+    "Data wrangling"
+  ],
+  "Scikit-learn": [
+    "Pandas",
+    "Python",
+    "PyTorch",
+    "NumPy",
+    "Matplotlib"
+  ],
+  "TensorFlow": [
+    "MLflow",
+    "Deep learning",
+    "Keras",
+    "PyTorch",
+    "NumPy"
+  ],
+  "Keras": [
+    "TensorFlow",
+    "Deep learning",
+    "NumPy",
+    "PyTorch",
+    "MLflow"
+  ],
+  "PyTorch": [
+    "TensorFlow",
+    "NumPy",
+    "Python",
+    "Scikit-learn",
+    "Jupyter Notebook"
+  ],
+  "XGBoost": [
+    "LightGBM",
+    "CatBoost",
+    "AWS",
+    "PyTorch",
+    "Java"
+  ],
+  "LightGBM": [
+    "XGBoost",
+    "MLflow",
+    "Databricks",
+    "Redshift",
+    "Deep learning"
+  ],
+  "CatBoost": [
+    "Bash",
+    "XGBoost",
+    "Snowflake",
+    "Docker",
+    "Seaborn"
+  ],
+  "NLP": [
+    "Deep learning",
+    "Snowflake",
+    "Business intelligence",
+    "ETL",
+    "Exploratory data analysis"
+  ],
+  "Deep learning": [
+    "TensorFlow",
+    "Keras",
+    "MLflow",
+    "Feature engineering",
+    "Forecasting"
+  ],
+  "Model deployment": [
+    "Feature engineering",
+    "Statistical modeling",
+    "Terraform",
+    "Financial modeling",
+    "Agile methodology"
+  ],
+  "Hypothesis testing": [
+    "Chi-square test",
+    "Bayesian statistics",
+    "A/B testing",
+    "ANOVA",
+    "Statistical modeling"
+  ],
+  "Linear regression": [
+    "Logistic regression",
+    "Excel",
+    "Statistical modeling",
+    "Forecasting",
+    "MATLAB"
+  ],
+  "Logistic regression": [
+    "Linear regression",
+    "Statistical modeling",
+    "Customer analytics",
+    "Marketing analytics",
+    "Risk analytics"
+  ],
+  "ANOVA": [
+    "Hypothesis testing",
+    "Excel",
+    "dplyr",
+    "A/B testing",
+    "Multivariate analysis"
+  ],
+  "Bayesian statistics": [
+    "Statistical modeling",
+    "Hypothesis testing",
+    "Marketing analytics",
+    "Customer analytics",
+    "Risk analytics"
+  ],
+  "A/B testing": [
+    "Hypothesis testing",
+    "Chi-square test",
+    "ANOVA",
+    "dplyr",
+    "Excel"
+  ],
+  "Multivariate analysis": [
+    "Exploratory data analysis",
+    "Product analytics",
+    "Time series analysis",
+    "Data visualization",
+    "Customer analytics"
+  ],
+  "Time series forecasting": [
+    "Forecasting",
+    "Time series analysis",
+    "Statistical modeling",
+    "Financial modeling",
+    "Linear regression"
+  ],
+  "Chi-square test": [
+    "Hypothesis testing",
+    "SQL",
+    "A/B testing",
+    "MySQL",
+    "ANOVA"
+  ],
+  "Statistical modeling": [
+    "Financial modeling",
+    "Bayesian statistics",
+    "Marketing analytics",
+    "Customer analytics",
+    "Logistic regression"
+  ],
+  "ETL": [
+    "Redis",
+    "AWS",
+    "Business intelligence",
+    "NLP",
+    "Keras"
+  ],
+  "Airflow": [
+    "MLflow",
+    "TensorFlow",
+    "Redshift",
+    "AWS",
+    "Keras"
+  ],
+  "Apache Spark": [
+    "Apache Hive",
+    "Hadoop HDFS",
+    "Databricks",
+    "Apache Kafka",
+    "Scala"
+  ],
+  "Apache Hive": [
+    "Apache Spark",
+    "Hadoop HDFS",
+    "Oracle",
+    "MySQL",
+    "Apache Kafka"
+  ],
+  "Apache Kafka": [
+    "Apache Spark",
+    "Apache Hive",
+    "Kubernetes",
+    "NoSQL",
+    "QlikView"
+  ],
+  "dbt": [
+    "Tableau",
+    "Oracle",
+    "Microsoft SQL Server",
+    "SQL",
+    "Git"
+  ],
+  "Snowflake": [
+    "CatBoost",
+    "NLP",
+    "Seaborn",
+    "R",
+    "Bash"
+  ],
+  "BigQuery": [
+    "NoSQL",
+    "SQL",
+    "PostgreSQL",
+    "Hadoop HDFS",
+    "Apache Kafka"
+  ],
+  "Data pipelines": [
+    "Data wrangling",
+    "Data warehousing",
+    "Data cleaning",
+    "Data visualization",
+    "Storytelling with data"
+  ],
+  "Data warehousing": [
+    "Data wrangling",
+    "Business intelligence",
+    "Product analytics",
+    "Data cleaning",
+    "Data pipelines"
+  ],
+  "MySQL": [
+    "SQL",
+    "PostgreSQL",
+    "NoSQL",
+    "Microsoft SQL Server",
+    "Oracle"
+  ],
+  "PostgreSQL": [
+    "MySQL",
+    "SQL",
+    "NoSQL",
+    "Data warehousing",
+    "Oracle"
+  ],
+  "Oracle": [
+    "SQL",
+    "Microsoft SQL Server",
+    "Java",
+    "dbt",
+    "Apache Hive"
+  ],
+  "MongoDB": [
+    "NoSQL",
+    "Firebase",
+    "MySQL",
+    "PostgreSQL",
+    "Data warehousing"
+  ],
+  "Redis": [
+    "Redshift",
+    "ETL",
+    "R",
+    "AWS",
+    "Julia"
+  ],
+  "Microsoft SQL Server": [
+    "SQL",
+    "Oracle",
+    "Business intelligence",
+    "Data warehousing",
+    "MySQL"
+  ],
+  "Redshift": [
+    "Redis",
+    "LightGBM",
+    "Scikit-learn",
+    "Airflow",
+    "R"
+  ],
+  "NoSQL": [
+    "MongoDB",
+    "MySQL",
+    "PostgreSQL",
+    "Firebase",
+    "Data warehousing"
+  ],
+  "Firebase": [
+    "NoSQL",
+    "Databricks",
+    "AWS",
+    "MongoDB",
+    "Hadoop HDFS"
+  ],
+  "Hadoop HDFS": [
+    "Databricks",
+    "Apache Spark",
+    "Apache Hive",
+    "Firebase",
+    "NoSQL"
+  ],
+  "AWS": [
+    "Terraform",
+    "Azure",
+    "Google Cloud Platform",
+    "Firebase",
+    "Pandas"
+  ],
+  "Azure": [
+    "AWS",
+    "Google Cloud Platform",
+    "Terraform",
+    "Cloud Functions",
+    "Git"
+  ],
+  "Google Cloud Platform": [
+    "Google Data Studio",
+    "Cloud Functions",
+    "Azure",
+    "AWS",
+    "Terraform"
+  ],
+  "Databricks": [
+    "Hadoop HDFS",
+    "Data warehousing",
+    "Apache Spark",
+    "Data wrangling",
+    "Data pipelines"
+  ],
+  "Docker": [
+    "Git",
+    "AWS",
+    "Bash",
+    "Seaborn",
+    "Kubernetes"
+  ],
+  "Kubernetes": [
+    "KPI development",
+    "Terraform",
+    "Apache Kafka",
+    "Keras",
+    "Cloud Functions"
+  ],
+  "Terraform": [
+    "AWS",
+    "Azure",
+    "Git",
+    "Google Cloud Platform",
+    "Cloud Functions"
+  ],
+  "Cloud Functions": [
+    "Google Cloud Platform",
+    "Data pipelines",
+    "Azure",
+    "AWS",
+    "Terraform"
+  ],
+  "CI/CD": [
+    "ETL",
+    "SQL",
+    "Oracle",
+    "Bash",
+    "dbt"
+  ],
+  "MLflow": [
+    "TensorFlow",
+    "Airflow",
+    "Deep learning",
+    "Data pipelines",
+    "Keras"
+  ],
+  "Business intelligence": [
+    "Data warehousing",
+    "Product analytics",
+    "Marketing analytics",
+    "Customer analytics",
+    "Risk analytics"
+  ],
+  "KPI development": [
+    "Kubernetes",
+    "QlikView",
+    "Java",
+    "Google Data Studio",
+    "Feature engineering"
+  ],
+  "Forecasting": [
+    "Time series forecasting",
+    "Time series analysis",
+    "Financial modeling",
+    "Statistical modeling",
+    "Churn prediction"
+  ],
+  "Customer analytics": [
+    "Marketing analytics",
+    "Product analytics",
+    "Risk analytics",
+    "Business intelligence",
+    "Data warehousing"
+  ],
+  "Product analytics": [
+    "Marketing analytics",
+    "Customer analytics",
+    "Business intelligence",
+    "Data warehousing",
+    "Risk analytics"
+  ],
+  "Marketing analytics": [
+    "Customer analytics",
+    "Product analytics",
+    "Risk analytics",
+    "Business intelligence",
+    "Statistical modeling"
+  ],
+  "Financial modeling": [
+    "Statistical modeling",
+    "Forecasting",
+    "ROI analysis",
+    "Risk analytics",
+    "Marketing analytics"
+  ],
+  "Risk analytics": [
+    "Marketing analytics",
+    "Customer analytics",
+    "Product analytics",
+    "Business intelligence",
+    "Exploratory data analysis"
+  ],
+  "Churn prediction": [
+    "Forecasting",
+    "Customer analytics",
+    "Marketing analytics",
+    "Logistic regression",
+    "Statistical modeling"
+  ],
+  "ROI analysis": [
+    "Financial modeling",
+    "Marketing analytics",
+    "Multivariate analysis",
+    "Risk analytics",
+    "Customer analytics"
+  ],
+  "Excel": [
+    "VBA",
+    "MATLAB",
+    "Data visualization",
+    "SQL",
+    "Linear regression"
+  ],
+  "Jupyter Notebook": [
+    "Python",
+    "PyTorch",
+    "Matplotlib",
+    "VBA",
+    "Tableau"
+  ],
+  "Git": [
+    "Bash",
+    "dbt",
+    "Terraform",
+    "Docker",
+    "Firebase"
+  ],
+  "Agile methodology": [
+    "Collaboration with stakeholders",
+    "Model deployment",
+    "Customer analytics",
+    "Product analytics",
+    "Risk analytics"
+  ],
+  "Communication of insights": [
+    "Marketing analytics",
+    "Storytelling with data",
+    "Business intelligence",
+    "Customer analytics",
+    "Exploratory data analysis"
+  ],
+  "Dashboard creation": [
+    "Product analytics",
+    "Data visualization",
+    "Customer analytics",
+    "Google Data Studio",
+    "Data wrangling"
+  ],
+  "Critical thinking": [
+    "Communication of insights",
+    "NLP",
+    "R",
+    "Git",
+    "Collaboration with stakeholders"
+  ],
+  "Collaboration with stakeholders": [
+    "Communication of insights",
+    "Agile methodology",
+    "Data governance",
+    "Product analytics",
+    "Customer analytics"
+  ],
+  "Storytelling with data": [
+    "Data wrangling",
+    "Data visualization",
+    "Exploratory data analysis",
+    "Data governance",
+    "Data warehousing"
+  ],
+  "Data governance": [
+    "Data wrangling",
+    "Data warehousing",
+    "Storytelling with data",
+    "Data cleaning",
+    "Google Data Studio"
+  ]
+}
