@@ -85,14 +85,17 @@ similarity_matrix = cosine_similarity(embeddings)
 # Store enhanced skills
 enhanced_skills = {}
 
-
-# Loop through each skill
-for idx, skill in enumerate(skills):
-    sim_scores = similarity_matrix[idx]
-    # Get top-N similar indices (excluding self)
-    top_indices = sim_scores.argsort()[-TOP_N-1:-1][::-1]
-    similar = [skills[i] for i in top_indices]
-    enhanced_skills[skill] = similar
+with open("enhanced_skills.txt", "w") as f:
+    # Loop through each skill
+    for idx, skill in enumerate(skills):
+        sim_scores = similarity_matrix[idx]
+        # Get top-N similar indices (excluding self)
+        top_indices = sim_scores.argsort()[-TOP_N-1:-1][::-1]
+        similar = [skills[i] for i in top_indices]
+        enhanced_skills[skill] = similar
+        f.write(skill + "\n")
+        for s in similar:
+            f.write(s + "\n")
 
 # Show sample
 for skill, similars in list(enhanced_skills.items())[:10]:
